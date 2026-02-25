@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+
+# Extra unnecessary files
+EXTRA-FILES/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset folders
+dataset_images/
+raw_pdb/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
